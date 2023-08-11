@@ -6,9 +6,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "install-server": " cd server && npm install",
     "start-server": " cd server &&  node index.js",
-    "install-client": " cd my-app && npm install",
-    "build-client": " cd my-app && npm run build",
-    "start-client": " cd my-app && npm run start"
+    "install-client": " cd my-app2 && npm install",
+    "build-client": " cd my-app2 && npm run build",
+    "start-client": " cd my-app2 && npm run start"
     
     
     
